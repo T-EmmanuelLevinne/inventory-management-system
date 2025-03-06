@@ -64,6 +64,7 @@ public class Main {
 
                 case 4:
                     System.out.println("Exiting program...");
+                 break;
                  
 
                 default:
