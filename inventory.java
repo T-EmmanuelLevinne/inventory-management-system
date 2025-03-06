@@ -14,7 +14,7 @@ public class Main {
         prices.put("Keyboard", 50.76);
 
         while (true) {
-            System.out.println("\nJacob Inventory Management System");
+            System.out.println("\Le Em Inventory Management System");
             System.out.println("1. Add Item");
             System.out.println("2. Set Quantity");
             System.out.println("3. Display Inventory");
